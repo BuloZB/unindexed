@@ -15,6 +15,14 @@ or [maybe just watch this instead.](https://www.youtube.com/watch?v=qqmNaOn56mc)
 
 If you want to conduct your own similar experiment, the source code is here.
 
+## coverage
+
+if you want to read more about unindexed, others have written about it:
+
+* ["It Will Take Google 22 Days to Find You"](https://www.vice.com/en/article/it-will-take-google-22-days-to-find-you/), Adrianne Jeffries, _VICE Magazine_, 2015.
+* ["Unindexed: The website that was built for Google to destroy"](https://www.pcworld.com/article/432335/the-website-that-was-built-for-google-to-destroy.html), Jeremy Kirk, _PC World_, 2015.
+* _[The New Aesthetic and Art: Constellations of the Postdigital](https://www.amazon.com/New-Aesthetic-Art-Constellations-Postdigital/dp/949230208X)_, Scott Contreras-Koterbay & Łukasz Mirocha, Institute of Network Cultures, 2016. <sub>[[internet archive copy]](https://archive.org/details/tod-20-final/)</sub>
+
 ## info
 
   - Nothing has been done to prevent the site from being indexed, however the
